@@ -1,4 +1,4 @@
-const url = "https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating&key=8050c545b5984644858bb2b351a81a8e";
+const url = "https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating&key=47a00f09256841d9ab0a5e6128aedbb9";
 const proxy = "https://noroffcors.herokuapp.com/"
 
 const corsFix = proxy + url
